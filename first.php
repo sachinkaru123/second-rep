@@ -36,22 +36,9 @@
 <h2>in this we are going to create some differents </h2>
 <h1>we did</h1>
 
-<!-- 
-    4
-    5
-    5
-    5
-    5
-    5
-    5
+<body>
 
-    5
-    5
 
-    55
-    5
- -->
-    <h2>sss</h2>
 </body>
 
 </html>
